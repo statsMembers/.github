@@ -1,3 +1,5 @@
+![statsMembers]([https://media.discordapp.net/attachments/668301486396014622/1039278089479401522/banner_development_community.png](https://cdn.discordapp.com/attachments/1152135948142911488/1165236738940207166/Banniere.png)?width=900&height=371)
+
 <div align="center">
 <h1>👋 Bienvenue sur le github de statsMember</h1>
 </div>
